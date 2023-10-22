@@ -68,7 +68,7 @@ section.filters button:hover {
     list-style-type: none;
 }
 
-.locations: hover > .popover {
+.locations:hover > .popover {
     display: block;
 }
 
