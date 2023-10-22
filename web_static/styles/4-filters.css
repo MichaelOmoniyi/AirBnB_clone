@@ -5,6 +5,7 @@ section.filters {
     border: 1px solid #ddd;
     border-radius: 4px;
     display: flex;
+    justify-content: flex-end;
     align-items: center;
 }
 section.filters button {
@@ -15,6 +16,7 @@ section.filters button {
     width: 20%;
     border: none;
     border-radius: 4px;
+    margin-right: 30px;
 }
 section.filters button:hover {
     opacity: 90%;
