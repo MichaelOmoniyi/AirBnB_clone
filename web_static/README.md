@@ -72,3 +72,43 @@ An HTML page that displays a header, a footer, a filter box (dropdown list) and 
     * [ CSS file for filters style ](./styles/6-filters.css)
     * [ CSS file for places style ](./styles/8-places.css)
     * [ Access the images ](./images/)
+
+* **9. Full details**
+An HTML page that displays a header, footer, a filters box with dropdown and results.
+    * [ HTML file ](./100-index.html)
+    * [ CSS file for global style ](./styles/4-common.css)
+    * [ CSS file for header style ](./styles/3-header.css)
+    * [ CSS file for footer style ](./styles/3-footer.css)
+    * [ CSS file for filter style ](./styles/6-filters.css)
+    * [ CSS file for places style ](./styles/100-places.css)
+    * [ Acess the images ](./images/)
+
+* **10. Flex**
+Improve palace section with flexboxes.
+    * [ HTML file ](./101-index.html)
+    * [ CSS file for global style ](./styles/4-common.css)
+    * [ CSS file for header style ](./styles/3-header.css)
+    * [ CSS file for footer style ](./styles/3-footer.css)
+    * [ CSS file for filter style ](./styles/6-filters.css)
+    * [ CSS file for places style ](./styles/101-places.css)
+    * [ Acess the images ](./images/)
+
+* **11. Responsive design**
+Improve responsiveness of the website.
+    * [ HTML file ](./102-index.html)
+    * [ CSS file for global style ](./styles/102-common.css)
+    * [ CSS file for header style ](./styles/102-header.css)
+    * [ CSS file for footer style ](./styles/102-footer.css)
+    * [ CSS file for filter style ](./styles/102-filters.css)
+    * [ CSS file for places style ](./styles/102-places.css)
+    * [ Acess the images ](./images/)
+
+* **12. Accessibility**
+Improve the page accessibility
+    * [ HTML file ](./103-index.html)
+    * [ CSS file for global style ](./styles/103-common.css)
+    * [ CSS file for header style ](./styles/103-header.css)
+    * [ CSS file for footer style ](./styles/103-footer.css)
+    * [ CSS file for filter style ](./styles/103-filters.css)
+    * [ CSS file for places style ](./styles/103-places.css)
+    * [ Acess the images ](./images/)
